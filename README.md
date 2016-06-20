@@ -10,7 +10,7 @@
 |**访客**|连接到热点的用户|
 |**客流**|连接到热点的访客次数|
 
-`图标插件使用百度Echarts，参见：http://echarts.baidu.com`
+`图表插件使用百度Echarts，参见：[http://echarts.baidu.com](http://echarts.baidu.com)`
 
 ## 登录页
 
